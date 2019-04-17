@@ -11,3 +11,6 @@ def assign_rooms(speakers)
     speakers[index] = "Hello, #{speaker}! You'll be assigned to room #{index + 1}!"
   }
 end
+
+def printer(attendees)
+  
